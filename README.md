@@ -1,3 +1,7 @@
+# Run Project
+- npm install
+- npm run dev
+
 # Project - Movies
 - Homepage: Find out about the newest film trends, including popular television series. See some of the most well-liked content as soon as possible.
 
